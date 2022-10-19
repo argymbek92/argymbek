@@ -14,11 +14,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+- :telescope:
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap:
 
 - :mailbox:How to reach me: https://web.telegram.org/k/
