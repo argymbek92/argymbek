@@ -14,11 +14,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- :telescope:
-
-- :seedling: 
-
-- :zap:
-
-- :mailbox:How to reach me: https://web.telegram.org/k/
+- 👋 Hi, I’m Argymbek Baibolat. I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan. 
+- 👀 I’m interested in Data Analysis and Big DATA
+- 🌱 I’m currently continuing to study Data Analytics
+- 💞️ I’m looking to collaborate on projects related to Big Data and Data Analysis
+- 📫 How to reach me https://web.telegram.org/k/
+                     
